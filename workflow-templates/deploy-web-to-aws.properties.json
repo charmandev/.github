@@ -1,5 +1,6 @@
 {
     "name": "Deploy web to s3",
     "description": "Deploy web to s3.",
-    "iconName": "example-icon"
+    "iconName": "example-icon",
+    "labels": ["preview"]
 }
