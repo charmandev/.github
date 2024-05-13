@@ -1,13 +1,5 @@
 {
-    "name": "Octo Organization Workflow",
-    "description": "Octo Organization CI starter workflow.",
-    "iconName": "example-icon",
-    "categories": [
-        "Go"
-    ],
-    "filePatterns": [
-        "package.json$",
-        "^Dockerfile",
-        ".*\\.md$"
-    ]
+    "name": "Deploy web to s3",
+    "description": "Deploy web to s3.",
+    "iconName": "example-icon"
 }
